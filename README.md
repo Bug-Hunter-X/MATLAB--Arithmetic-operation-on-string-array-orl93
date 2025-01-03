@@ -1,0 +1,1 @@
+This repository contains a MATLAB script demonstrating an uncommon error: performing arithmetic operations on a string array.  The script, "bug.m", shows the problematic code. The solution, "bugSolution.m", demonstrates how to use type checking to prevent the error. This type of error is subtle and can be hard to diagnose.
